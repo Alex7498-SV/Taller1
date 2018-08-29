@@ -1,0 +1,14 @@
+body{
+    background:mediumslateblue;
+}
+.content{
+    margin: auto;
+    width: 50%;
+    height: 510px;
+    background:whitesmoke;
+    border-style: solid;
+    border-color: black;
+}
+span{
+    color: coral;
+}
