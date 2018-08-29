@@ -1,6 +1,9 @@
 body{
     background:mediumslateblue;
 }
+.pagename{
+    font-family: Arial, Helvetica, sans-serif;    
+}
 .content{
     margin: auto;
     width: 50%;
@@ -8,6 +11,18 @@ body{
     background:whitesmoke;
     border-style: solid;
     border-color: black;
+}
+
+.b1{
+    width: 80%
+}
+
+.c1{
+    width: 90%
+}
+
+.c2{
+    width: 90%
 }
 span{
     color: coral;
